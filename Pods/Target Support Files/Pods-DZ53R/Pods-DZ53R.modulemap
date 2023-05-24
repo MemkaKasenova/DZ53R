@@ -1,0 +1,6 @@
+framework module Pods_DZ53R {
+  umbrella header "Pods-DZ53R-umbrella.h"
+
+  export *
+  module * { export * }
+}
